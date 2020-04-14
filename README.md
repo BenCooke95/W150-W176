@@ -6,7 +6,7 @@ Data files for the discovery paper:
 
 Included are the WASP photomety, follow-up spectroscopy and follow-up photometry.
 
-Data files are named by instrument and date (where applicable). Dates follow the ddmmyyyy convention. TRAPPIST data is split into a (befoe meridian flip) and b (after meridian flip).
+Data files are named by instrument and date (where applicable). Dates follow the ddmmyyyy convention. TRAPPIST data is split into a (before meridian flip) and b (after meridian flip).
 
 The photometry files each contain 3 columns: HJD(-2450000), Flux, Flux_err
 
